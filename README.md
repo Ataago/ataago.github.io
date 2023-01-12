@@ -4,4 +4,6 @@
 - [github](https://www.github.com/ataago)
 
 
+[embed]cv.pdf[/embed]
+
 Work in progress...
